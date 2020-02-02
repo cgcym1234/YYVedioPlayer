@@ -4,6 +4,7 @@
 
 - Xcode 11.3
 - Swift 5.1
+- [YYBlog](http://120.79.102.161/Blogs/note/Blog/web/index.html#/)
 
 
 
@@ -15,7 +16,7 @@
 
 > 说明一下，这篇文章主要是演示Swift UI，工程里面使用的播放控件是基于IJKMediaFramework封装好的一个ViewController，在Github上找的这个工程[ Swift-IJKPlayer](https://github.com/limxing/Swift-IJKPlayer)小改了下，懒得自己再写🙃，也练习了Swift UI中使用UIKit。
 
-完整工程代码：[YYVedioPlayer](https://gitlab.com/cgcym1234/YYVedioPlayer.git)
+完整工程代码：[YYVedioPlayer](https://gitlab.com/cgcym1234/YYVedioPlayer.git)，github单个文件限制100M，就放到gitlab去了
 
 先来看下最终效果：
 
