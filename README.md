@@ -1,0 +1,2 @@
+# YYVedioPlayer
+使用Swift UI和IJKMediaFramework构建的个人视频播放器
