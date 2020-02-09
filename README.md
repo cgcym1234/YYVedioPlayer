@@ -4,7 +4,7 @@
 
 - Xcode 11.3
 - Swift 5.1
-- [YYBlog](http://120.79.102.161/Blogs/note/Blog/web/index.html#/)
+- [YYBlog](http://120.79.102.161/Blogs/note/Blog/MyWeb/index.html#/)
 
 
 
